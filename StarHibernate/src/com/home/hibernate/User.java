@@ -1,8 +1,7 @@
 package com.home.hibernate;
 //fwq
 //1
-//2
-//3
+//2 
 public class User {
     private int userId;
     private String userName;
