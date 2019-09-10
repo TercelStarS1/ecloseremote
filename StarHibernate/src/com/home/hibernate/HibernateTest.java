@@ -19,7 +19,7 @@ public class HibernateTest {
 
     @Test
     public void test() { 
-         
+         //ceshi 
         Session session = null;
 		// 创建一个读取主配置文件的对象
 		Configuration cfg = new Configuration();
