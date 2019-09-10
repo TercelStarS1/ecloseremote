@@ -1,6 +1,7 @@
 package com.home.hibernate;
 
  //bbb+aaa 
+//ddd
 public class User {
     private int userId;
     private String userName;
