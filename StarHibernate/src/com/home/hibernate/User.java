@@ -1,6 +1,6 @@
 package com.home.hibernate;
 
- //111
+ //aaa
 public class User {
     private int userId;
     private String userName;
