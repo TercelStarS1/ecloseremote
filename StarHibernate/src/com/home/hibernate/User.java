@@ -1,7 +1,5 @@
 package com.home.hibernate;
 
- //bbb+aaa
-//ccc
 //1
 //2
 //3
